@@ -6,3 +6,8 @@ It doesn`t restrict any app usage, but it only shows an alert to a user when the
 As far as I understood, I need to ask for user authorization for using Family Controls framework to monitor their screen. 
 
 We expect to have your reply.
+
+<img width="264" alt="image" src="https://user-images.githubusercontent.com/63656142/223705792-ba9e9426-3608-466d-b63c-feec56679631.png">
+
+<img width="249" alt="image" src="https://user-images.githubusercontent.com/63656142/223705891-bca22e04-794f-40d6-af23-fba74dea9211.png">
+
